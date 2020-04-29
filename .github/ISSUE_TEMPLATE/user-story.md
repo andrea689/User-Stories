@@ -18,6 +18,6 @@ assignees: ''
 * Should <testable condition that should be satisfied>
 * Should <testable condition that should be satisfied>
 
-### Resources:
+### Resources
 
 * [Mockup](FIGMA_LINK_HERE)

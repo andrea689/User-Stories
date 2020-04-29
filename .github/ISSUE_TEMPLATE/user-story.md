@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-**As a** <role> **I want** <feature> **so that** <reason>.
+**As a** <role> 
+**I want** <feature> 
+**so that** <reason> <!-- this is optional -->
 
 <!-- Long description here if needed -->
 
